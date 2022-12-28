@@ -1,0 +1,39 @@
+.colorcon{
+    background-color: #222 !important;
+    color: #0b0b0b;
+}
+.footer{
+    text-align: center;
+    list-style-type: none;
+}
+.titleh1{
+    text-align: center;
+    margin-bottom: 10vh;
+}
+.spotify{
+padding-bottom: 6vh;
+}
+*,html{
+    
+   
+    overflow: inherit;
+
+}
+
+
+.fontset{
+    font-family: 'Chivo Mono', monospace !important;
+    text-transform: capitalize !important;
+}
+
+
+#copyright{
+    position: absolute;
+    font-size: .8em;
+    margin: .75em;
+
+}
+#margin-large{
+    padding-left: 35vw;
+    padding-right: 35vw;
+}
